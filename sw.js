@@ -1,4 +1,4 @@
-const CACHE_NAME = 'pro-todo-v1';
+const CACHE_NAME = 'pro-todo-v4';
 const urlsToCache = [
   './',
   './index.html',
